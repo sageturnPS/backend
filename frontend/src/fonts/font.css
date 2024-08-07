@@ -1,0 +1,8 @@
+/* public/fonts/sensation-light.css */
+@font-face {
+  font-family: 'Sansation Light';
+  src: url('/fonts/Sansation_Light.ttf') format('ttf'),
+       url('/fonts/Sansation_Light.ttf') format('ttf');
+  font-weight: 300; /* Adjust according to the weight of your font */
+  font-style: normal;
+}
